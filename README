@@ -1,0 +1,6 @@
+This Arduino library allows for simple character or buffer driven communication using
+BK2421(or compatible e.g. RF24L01 from SparkFun) based radio modules.
+
+DZL 2014
+
+dzlsevilgeniuslair.blogspot.dk
